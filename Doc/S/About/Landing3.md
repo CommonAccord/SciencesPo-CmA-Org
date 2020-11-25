@@ -1,5 +1,6 @@
 Ti=Landing page for the Science Po class project.
 
+1.sec=<a href="index.php?action=list&file=G/SciencesPo-LegalCollab/">G/SciencesPo-LegalCollab/</a>
 
 3.sec=The repo is at https://github.com/CommonAccord/SciencesPo-LegalCollab.
 
